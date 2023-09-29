@@ -1,5 +1,4 @@
-import React from 'react'
-import Carousel from 'react-bootstrap/Carousel';
+import React from 'react';
 import Slider from './Slider';
 
 
