@@ -1,13 +1,15 @@
-.App {
-  text-align: center;
+/* для блока "Услуги" */
+.services_card{
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #F4F4F4;
+    background: #444856;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.30);
 }
-
-a{
-  text-decoration: none;
-}
-#footer{
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  background-color: darkgray;
+/* для блока "Пакеты услуг" */
+.packages_card{
+    border-radius: 10px;
+    border: 1px solid rgba(107, 110, 125, 0.80);
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.40);
 }
